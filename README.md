@@ -30,4 +30,4 @@
 
 # 🔨 Usage
 
-<img src = "https://i.imgur.com/i62BJ2F.mp4">
+<img src = "https://i.imgur.com/mD1KNYQ.gif">
