@@ -5,12 +5,15 @@
 
 # 📝 Loader's Features
 
-<ul>
-  <li>IpLogger url (for Statistic)<li>
+* IpLogger url (for Statistic)
 <img src = "https://i.imgur.com/s8Qg72Y.png">
-
+* File Drop Path
+* Task Shedule
+* Auto Delete
+* Hidden Attribute
+* Loader's Icon
 <img src = "https://i.imgur.com/ARb7UOR.png">
-
+* Show Message At Start
 <img src = "https://i.imgur.com/ng3grcY.png">
 
 <img src = "https://i.imgur.com/9veLFJ1.png">
