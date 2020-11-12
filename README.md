@@ -29,3 +29,5 @@
 <img src = "https://i.imgur.com/9veLFJ1.png">
 
 # 🔨 Usage
+
+<img src = "https://i.imgur.com/i62BJ2F.mp4">
